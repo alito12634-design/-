@@ -1,0 +1,6 @@
+{
+  "name": "مدرسة شمس المعارف الأساسية الأهلية",
+  "description": "نظام إدارة بيانات الطلاب والمناطق السكنية والخطوط المدرسية لمدرسة شمس المعارف الأساسية الأهلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
